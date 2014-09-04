@@ -23,3 +23,5 @@ BMS was here.
 
 Blah blah bleh blah I'm being talked through coding. Also trailmix is great. --Michael
 
+I'm not particularly great at Git (or typing) right now. -- Driver Erik
+
