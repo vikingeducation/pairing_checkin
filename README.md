@@ -1,5 +1,6 @@
-pairing_checkin
-===============
+# Pairing Checkin
+
+## This is for the dry run of your pairing sessions
 
 The sample repo to be used for our pairing checkin
 
@@ -28,4 +29,9 @@ Blah blah bleh blah I'm being talked through coding. Also trailmix is great. --M
 Hi there. I'm not too clever -- Tom
 
 I'm not particularly great at Git (or typing) right now. -- Driver Erik
+
+I sense a soul in search of answers. -Andur
+
+Allez enfants! - Erik the Driver
+
 
