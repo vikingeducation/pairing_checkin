@@ -17,7 +17,15 @@ What did you have for lunch today? - Driver Erik
 
 I had some prep-work goodness and a bit of trailmix. -Matt 
 
+The wittiest thing I thought of in 3 seconds -- Driver Erik
+
+BMS was here.
+
+"I don't think it matters" - Driver Erik
+
+Blah blah bleh blah I'm being talked through coding. Also trailmix is great. --Michael
+
 Hi there. I'm not too clever -- Tom
 
-The wittiest thing I thought of in 3 seconds -- Driver Erik
+I'm not particularly great at Git (or typing) right now. -- Driver Erik
 
