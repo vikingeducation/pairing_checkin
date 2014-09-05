@@ -34,4 +34,10 @@ I sense a soul in search of answers. -Andur
 
 Allez enfants! - Erik the Driver
 
+Git is so much fun to use!! - Paul
+
+Time flies like an arrow, fruit flies like a banana! - not Paul
+
+
+
 
