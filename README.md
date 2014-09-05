@@ -38,6 +38,10 @@ Git is so much fun to use!! - Paul
 
 Time flies like an arrow, fruit flies like a banana! - not Paul
 
+Roses are red, violets are blue.  This is a colorful sentence, just for you. --Driver Erik
+
+
+
 
 
 
