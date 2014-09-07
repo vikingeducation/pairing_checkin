@@ -34,4 +34,6 @@ I sense a soul in search of answers. -Andur
 
 Allez enfants! - Erik the Driver
 
+Pro tip - tropical trailmix is delicious in oatmeal  -- Abby
+
 
