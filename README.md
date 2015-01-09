@@ -43,6 +43,19 @@ Pro tip - tropical trailmix is delicious in oatmeal  -- Abby
 
 Sunshine on my shoulders makes me happy! -- Driver Erik
 
+Dan is contributing to the project!!!! - Dan
 
+Dan, dan, motion man.  --Driver Erik
 
+HELLO EVERYONE EH -- Driver Daniel
+
+THIS IS WHAT I WANT TO ADD!!!!! - Dan
+
+ERIK'S MERGE CONFLICT HAHAHAHAHA
+
+"Whatever you want to say" -- Dan quoted by Erik
+
+Don't forget to drink your ovaltine -- Dan
+
+Erik brings conflict with him wherever he goes
 
