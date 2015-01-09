@@ -55,3 +55,4 @@ ERIK'S MERGE CONFLICT HAHAHAHAHA
 
 "Whatever you want to say" -- Dan quoted by Erik
 
+Erik brings conflict with him wherever he goes
