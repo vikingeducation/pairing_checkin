@@ -47,7 +47,11 @@ Dan is contributing to the project!!!! - Dan
 
 Dan, dan, motion man.  --Driver Erik
 
+HELLO EVERYONE EH -- Driver Daniel
+
 THIS IS WHAT I WANT TO ADD!!!!! - Dan
 
 ERIK'S MERGE CONFLICT HAHAHAHAHA
+
+"Whatever you want to say" -- Dan quoted by Erik
 
