@@ -39,7 +39,7 @@ Erik will use Windows by the time I'm through
 
 Abhi wants a nickname.  Any suggestions? -- Erik the Driver
 
-This is the COWBOY BOOT of the schwad - Schwad
+This is the cOnFlIcTy COWBOY BOOT of the schwad - Schwad
 
 Pro tip - tropical trailmix is delicious in oatmeal  -- Abby
 
