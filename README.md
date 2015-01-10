@@ -55,13 +55,5 @@ HELLO EVERYONE EH -- Driver Daniel
 
 THIS IS WHAT I WANT TO ADD!!!!! - Dan
 
-ERIK'S MERGE CONFLICT HAHAHAHAHA
-
-"Whatever you want to say" -- Dan quoted by Erik
-
-Erik brings conflict with him wherever he goes
-
-CONFLICT 2.0 is here.
-No, now it's really here.
 
 
