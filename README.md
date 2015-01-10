@@ -41,6 +41,8 @@ Abhi wants a nickname.  Any suggestions? -- Erik the Driver
 
 This is the COWBOY BOOT of the schwad - Schwad
 
+SOMEBODY POISONED THE WATER HOLE!
+
 Pro tip - tropical trailmix is delicious in oatmeal  -- Abby
 
 Sunshine on my shoulders makes me happy! -- Driver Erik
