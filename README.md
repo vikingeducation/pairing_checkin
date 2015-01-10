@@ -41,7 +41,7 @@ Erik will use Windows by the time I'm through
 
 Abhi wants a nickname.  Any suggestions? -- Erik the Driver
 
-This is the cOnFlIcTy COWBOY BOOT of the schwad - Schwad
+This is the COWBOY BOOT of the schwad - Schwad
 
 SOMEBODY POISONED THE WATER HOLE!
 
@@ -72,9 +72,12 @@ ERIK'S MERGE CONFLICT HAHAHAHAHA
 
 "Whatever you want to say" -- Dan quoted by Erik
 
+Idea for a musical about a one hour photo lab: "some day my prints will come"
+
 Erik brings conflict with him wherever he goes
 
-CONFLICT 2.0 is here.
+CONFLICT 2.0 isDAJSFLK;JFKLDJFAKLJ;LKre.
+WHAT! SCANDAL
 No, now it's really here.
 
-
+Friday night insanity
