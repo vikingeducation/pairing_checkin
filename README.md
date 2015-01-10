@@ -2,6 +2,8 @@
 
 ## This is for the dry run of your pairing sessions
 
+##This is a note you do NOT need to read
+
 The sample repo to be used for our pairing checkin
 
 PNDPO was here
@@ -39,10 +41,43 @@ Erik will use Windows by the time I'm through
 
 Abhi wants a nickname.  Any suggestions? -- Erik the Driver
 
+This is the COWBOY BOOT of the schwad - Schwad
+
+SOMEBODY POISONED THE WATER HOLE!
+
+ZEEBLE FLORB EEP KLEEGOOOOO
+
+
+
+^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+EMPTY SPACE
+
 Pro tip - tropical trailmix is delicious in oatmeal  -- Abby
 
 Sunshine on my shoulders makes me happy! -- Driver Erik
 
+One final note for the example...
 
+Dan is contributing to the project!!!! - Dan
 
+Dan, dan, motion man.  --Driver Erik
 
+HELLO EVERYONE EH -- Driver Daniel
+
+THIS IS WHAT I WANT TO ADD!!!!! - Dan
+
+ERIK'S MERGE CONFLICT HAHAHAHAHA
+
+"Whatever you want to say" -- Dan quoted by Erik
+
+Idea for a musical about a one hour photo lab: "some day my prints will come"
+
+Erik brings conflict with him wherever he goes
+
+CONFLICT 2.0 isDAJSFLK;JFKLDJFAKLJ;LKre.
+WHAT! SCANDAL
+No, now it's really here.
+
+Friday night insanity
