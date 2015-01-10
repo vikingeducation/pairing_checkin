@@ -2,6 +2,8 @@
 
 ## This is for the dry run of your pairing sessions
 
+##This is a note you do NOT need to read
+
 The sample repo to be used for our pairing checkin
 
 PNDPO was here
@@ -42,6 +44,15 @@ Abhi wants a nickname.  Any suggestions? -- Erik the Driver
 This is the COWBOY BOOT of the schwad - Schwad
 
 SOMEBODY POISONED THE WATER HOLE!
+
+ZEEBLE FLORB EEP KLEEGOOOOO
+
+
+
+^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+EMPTY SPACE
 
 Pro tip - tropical trailmix is delicious in oatmeal  -- Abby
 
