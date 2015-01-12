@@ -39,10 +39,28 @@ Erik will use Windows by the time I'm through
 
 Abhi wants a nickname.  Any suggestions? -- Erik the Driver
 
+This is the cOnFlIcTy COWBOY BOOT of the schwad - Schwad
+
 Pro tip - tropical trailmix is delicious in oatmeal  -- Abby
 
 Sunshine on my shoulders makes me happy! -- Driver Erik
 
+One final note for the example...
 
+Dan is contributing to the project!!!! - Dan
 
+Dan, dan, motion man.  --Driver Erik
 
+HELLO EVERYONE EH -- Driver Daniel
+
+THIS IS WHAT I WANT TO ADD!!!!! - Dan
+
+je suis charlie
+
+HAR HAR PIRATE BOOTIE!!! - Driver E
+
+purposeful merge conflict
+
+sadfasgasghasjgas;lfjals;jg;aslkjfd merge anger rawr -r
+
+HAR HAR PIRATE BOOTIE!!! - Driver E
