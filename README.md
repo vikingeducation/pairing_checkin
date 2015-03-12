@@ -4,6 +4,8 @@
 
 The sample repo to be used for our pairing checkin
 
+"Hello world" - nsm
+
 PNDPO was here
 
 Erik says hi too
