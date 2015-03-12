@@ -6,6 +6,8 @@ The sample repo to be used for our pairing checkin
 
 "Hello world" - nsm
 
+THIS IS A CONFLICT OMG!
+
 PNDPO was here
 
 puts "#{Insert Oscar Wilde Quote here}"  -- Driving Erik
