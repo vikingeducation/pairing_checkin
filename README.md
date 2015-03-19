@@ -73,4 +73,6 @@ sadfasgasghasjgas;lfjals;jg;aslkjfd merge anger rawr -r
 
 HAR HAR PIRATE BOOTIE!!! - Driver E
 
+Every journey ends in lovers meeting, the wise man's son doth know. -- W Shakespeare, Twelfth Night
+
 Another line -- Driver E
