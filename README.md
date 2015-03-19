@@ -43,6 +43,10 @@ Pro tip - tropical trailmix is delicious in oatmeal  -- Abby
 
 Sunshine on my shoulders makes me happy! -- Driver Erik
 
+Most people are other people. Their thoughts are someone else’s opinions. Their lives a mimicry. Their passions a quotation. -— Oscar Wilde
+
+I fear not the man who has practised 10,000 kicks, but I do fear the man who has practised one kick 10,000 times. --Bruce Lee
+
 
 
 
