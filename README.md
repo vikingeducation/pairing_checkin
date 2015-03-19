@@ -65,6 +65,10 @@ Can't wait to get started!
 
 je suis charlie
 
+Most people are other people. Their thoughts are someone else’s opinions. Their lives a mimicry. Their passions a quotation. -— Oscar Wilde
+
+I fear not the man who has practised 10,000 kicks, but I do fear the man who has practised one kick 10,000 times. --Bruce Lee
+
 sadfasgasghasjgas;lfjals;jg;aslkjfd merge anger rawr -r
 
 HAR HAR PIRATE BOOTIE!!! - Driver E
