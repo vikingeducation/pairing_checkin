@@ -4,6 +4,8 @@
 
 The sample repo to be used for our pairing checkin
 
+gweinert was here, too. Does penderworth see it?
+
 PNDPO was here
 
 Erik says hi too
