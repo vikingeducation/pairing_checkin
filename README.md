@@ -8,6 +8,8 @@ The sample repo to be used for our pairing checkin
 
 THIS IS A CONFLICT OMG!
 
+"Garrett was here!"
+
 PNDPO was here
 
 puts "#{Insert Oscar Wilde Quote here}"  -- Driving Erik
