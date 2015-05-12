@@ -16,7 +16,7 @@ You can always do whatever you want.  You are unique and special. - Erik
 
 What did you have for lunch today? - Driver Erik
 
-I had some prep-work goodness and a bit of trailmix. -Matt 
+I had some prep-work goodness and a bit of trailmix. -Matt
 
 The wittiest thing I thought of in 3 seconds -- Driver Erik
 
@@ -42,6 +42,8 @@ Abhi wants a nickname.  Any suggestions? -- Erik the Driver
 Pro tip - tropical trailmix is delicious in oatmeal  -- Abby
 
 Sunshine on my shoulders makes me happy! -- Driver Erik
+
+Adding this line has been the highest-pressure part of VCS to date - Alex
 
 
 
