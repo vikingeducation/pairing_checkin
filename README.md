@@ -91,5 +91,7 @@ Adding another line.  -- Baseline Driver E
 
 I had guacamole on a bagel for breakfast.  It was delicious! - Alice
 
+I'm very excited to start the Viking program in a month! -- Driver David M.
+
 I WANT ICE CREAM!!!! -- Driver Erik
 
