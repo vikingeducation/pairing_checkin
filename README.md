@@ -1,7 +1,10 @@
 # Pairing Checkin
-ljrngelr
-
 ## This is for the dry run of your pairing sessions
+
+
+ljrngelr - A
+The sun is shining!  (that's bright) -- Driver Erik
+
 
 The sample repo to be used for our pairing checkin
 
