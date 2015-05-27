@@ -1,6 +1,10 @@
 # Pairing Checkin
-
 ## This is for the dry run of your pairing sessions
+
+
+ljrngelr - A
+The sun is shining!  (that's bright) -- Driver Erik
+
 
 The sample repo to be used for our pairing checkin
 
@@ -93,4 +97,10 @@ I officially start today. -- Xin
 
 I want Ice Cream.  - Driver Erik
 
+I had guacamole on a bagel for breakfast.  It was delicious! - Alice
 
+I'm very excited to start the Viking program in a month! -- Driver David M.
+
+I WANT ICE CREAM!!!! -- Driver Erik
+
+Whatever I want is here.  -- Driver Erik
