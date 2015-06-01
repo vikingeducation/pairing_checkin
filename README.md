@@ -43,6 +43,8 @@ Pro tip - tropical trailmix is delicious in oatmeal  -- Abby
 
 Sunshine on my shoulders makes me happy! -- Driver Erik
 
+Not being put on the spot - Joseph
+
 
 
 
