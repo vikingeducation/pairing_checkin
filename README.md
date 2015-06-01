@@ -93,6 +93,10 @@ Here comes, yet another line, with, too many commas,,
 
 Adding another line.  -- Baseline Driver E
 
+I officially start today. -- Xin
+
+I want Ice Cream.  - Driver Erik
+
 I had guacamole on a bagel for breakfast.  It was delicious! - Alice
 
 Not being put on the spot - Joseph
