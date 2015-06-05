@@ -113,4 +113,6 @@ Hello, I like learning to code -- Michelle
 
 peanut butter makes the world go round.. unless you are allergic..then there is chocolate - Mike Butts
 
+It's strangely sunny in San Francisco now.  -- Erik
+
 
