@@ -1,10 +1,10 @@
 # Pairing Checkin
 ## This is for the dry run of your pairing sessions
 
-
 ljrngelr - A
 The sun is shining!  (that's bright) -- Driver Erik
 
+Three Letters -- Driver Erik
 
 The sample repo to be used for our pairing checkin
 
@@ -109,4 +109,16 @@ Whatever I want is here.  -- Driver Erik
 
 ANYTHING.  DO SOME CODE. -- Driver Erik
 
+Hello, I like learning to code -- Michelle
 
+peanut butter makes the world go round.. unless you are allergic..then there is chocolate - Mike Butts
+
+It's strangely sunny in San Francisco now.  -- Erik
+
+My first Pair Programming exercise -- J Ryan
+
+I want coffee.  -- Erik
+
+HELLO WORLD -- Donald Kelsey
+
+I want cookies and cream. -- Cookie monster
