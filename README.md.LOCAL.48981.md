@@ -1,20 +1,12 @@
 # Pairing Checkin
+
 ## This is for the dry run of your pairing sessions
-
-
-ljrngelr - A
-The sun is shining!  (that's bright) -- Driver Erik
-
 
 The sample repo to be used for our pairing checkin
 
 "Hello world" - nsm
 
 MAKE LOVE NOT CONFLICT
-
-"Garrett was here!"
-
-Something.
 
 PNDPO was here
 
@@ -30,7 +22,7 @@ You can always do whatever you want.  You are unique and special. - Erik
 
 What did you have for lunch today? - Driver Erik
 
-I had some prep-work goodness and a bit of trailmix. -Matt
+I had some prep-work goodness and a bit of trailmix. -Matt 
 
 The wittiest thing I thought of in 3 seconds -- Driver Erik
 
@@ -73,40 +65,8 @@ Can't wait to get started!
 
 je suis charlie
 
-Most people are other people. Their thoughts are someone else’s opinions. Their lives a mimicry. Their passions a quotation. -— Oscar Wilde
-
-I fear not the man who has practised 10,000 kicks, but I do fear the man who has practised one kick 10,000 times. --Bruce Lee
-
 sadfasgasghasjgas;lfjals;jg;aslkjfd merge anger rawr -r
-
-Hello, world...again! -- Nick
 
 HAR HAR PIRATE BOOTIE!!! - Driver E
 
-Adding this line has been the highest-pressure part of VCS to date - Alex
-
-Every journey ends in lovers meeting, the wise man's son doth know. -- W Shakespeare, Twelfth Night
-
 Another line -- Driver E
-
-Here comes, yet another line, with, too many commas,,
-
-Adding another line.  -- Baseline Driver E
-
-I officially start today. -- Xin
-
-I want Ice Cream.  - Driver Erik
-
-I had guacamole on a bagel for breakfast.  It was delicious! - Alice
-
-Not being put on the spot - Joseph
-
-I'm very excited to start the Viking program in a month! -- Driver David M.
-
-I WANT ICE CREAM!!!! -- Driver Erik
-
-Whatever I want is here.  -- Driver Erik
-
-ANYTHING.  DO SOME CODE. -- Driver Erik
-
-
