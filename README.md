@@ -109,4 +109,6 @@ Whatever I want is here.  -- Driver Erik
 
 ANYTHING.  DO SOME CODE. -- Driver Erik
 
+# H1 tags are big bold and they are great for SEO because they are the first thing that search engines generally find when indexing a page... yay!
+
 
