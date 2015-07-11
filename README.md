@@ -3,6 +3,8 @@
 
 Something that makes me happy! 
 
+"I am happy" - David
+
 ljrngelr - A
 The sun is shining!  (that's bright) -- Driver Erik
 
