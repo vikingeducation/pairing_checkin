@@ -133,3 +133,4 @@ Coffee makes me happy -Driver Erik
 
 too much grapefruit burns. -- Dustin
 
+For breakfast I had Egg and Avocado and Sausage.  A good California meal.  -- Driver Erik
