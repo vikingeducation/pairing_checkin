@@ -109,6 +109,4 @@ Whatever I want is here.  -- Driver Erik
 
 ANYTHING.  DO SOME CODE. -- Driver Erik
 
-First pairing experiment successful. (Hopefully)
-
-
+First pairing experiment successful. (Hopefully) My favorite animal is a jackalope. 
