@@ -1,10 +1,14 @@
 # Pairing Checkin
 ## This is for the dry run of your pairing sessions
 
+Something that makes me happy! 
+
+"I am happy" - David
 
 ljrngelr - A
 The sun is shining!  (that's bright) -- Driver Erik
 
+Three Letters -- Driver Erik
 
 The sample repo to be used for our pairing checkin
 
@@ -109,4 +113,36 @@ Whatever I want is here.  -- Driver Erik
 
 ANYTHING.  DO SOME CODE. -- Driver Erik
 
+Playing Hockey -- Driver Jeff
 
+Sunshine on my shoulders makes me hapyp.  -- DRIVER E
+
+Hello, I like learning to code -- Michelle
+
+peanut butter makes the world go round.. unless you are allergic..then there is chocolate - Mike Butts
+
+It's strangely sunny in San Francisco now.  -- Erik
+
+My first Pair Programming exercise -- J Ryan
+
+I want coffee.  -- Erik
+
+HELLO WORLD -- Donald Kelsey
+
+I want cookies and cream. -- Cookie monster
+
+A line that makes me happy.  -- Driver Erik
+
+Coffee makes me happy -Driver Erik
+
+too much grapefruit burns. -- Dustin
+
+For breakfast I had Egg and Avocado and Sausage.  A good California meal.  -- Driver Erik
+
+Looking forward to starting VCS! -- Driver Andrew
+
+Eating pizza makes me happy! - Thomas
+
+ME TOOOO -- Excited Erik
+
+Bacon!
