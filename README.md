@@ -141,4 +141,6 @@ For breakfast I had Egg and Avocado and Sausage.  A good California meal.  -- Dr
 
 Looking forward to starting VCS! -- Driver Andrew
 
+Eating pizza makes me happy! - Thomas
+
 ME TOOOO -- Excited Erik
