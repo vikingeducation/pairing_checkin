@@ -111,3 +111,5 @@ ANYTHING.  DO SOME CODE. -- Driver Erik
 
 
 Looking forward to starting VCS! -- Driver Andrew
+
+Ate corn pops cereal for breakfast! -- Driver Andrew
