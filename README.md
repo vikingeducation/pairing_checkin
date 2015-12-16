@@ -110,3 +110,8 @@ Whatever I want is here.  -- Driver Erik
 ANYTHING.  DO SOME CODE. -- Driver Erik
 
 
+Looking forward to starting VCS! -- Driver Andrew
+
+Ate corn pops cereal for breakfast! -- Driver Andrew
+
+It's a beautiful clear day this morning -- Driver Julia
