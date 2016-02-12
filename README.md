@@ -153,3 +153,5 @@ ME TOOOO -- Excited Erik
 Bacon!
 
 My tiny dog makes me happy. --Santina
+
+SUNSHINE makes me happy. -- driver Erik
