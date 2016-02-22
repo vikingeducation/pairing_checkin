@@ -2,7 +2,11 @@
 
 # Pairing Checkin
 ## This is for the dry run of your pairing sessions
+<<<<<<< HEAD
 "hey this is an attempted conflict"
+=======
+"Hello."
+>>>>>>> 90956f7bdcb0f384b21dea199b60b1b9aa01401f
 
 ljrngelr - A
 The sun is shining!  (that's bright) -- Driver Erik
