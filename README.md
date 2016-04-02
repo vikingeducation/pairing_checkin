@@ -1,8 +1,6 @@
-"This is the Tom Green Show."
-
 # Pairing Checkin
 ## This is for the dry run of your pairing sessions
-"Hello."
+
 
 ljrngelr - A
 The sun is shining!  (that's bright) -- Driver Erik
