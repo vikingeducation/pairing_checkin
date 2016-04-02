@@ -112,5 +112,4 @@ ANYTHING.  DO SOME CODE. -- Driver Erik
 Hello, world! -- Driver CJ
 
 Hello to you as well -- Driver Leo
-
-This is a conflict! -- Driver CJ
+Attempted conflict? -Leo
