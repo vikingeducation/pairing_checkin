@@ -31,6 +31,8 @@ PNDPO says "wat."
 "Every happy coder is alike. Every unhappy coder is unhappy in his
 or her own way." -- Tolstoy
 
+"Give someone a program, you frustrate them for a day. Teach them how to program, you frustrate them for a lifetime." - David Leinweber
+
 You can always do whatever you want.  You are unique and special. - Erik
 
 What did you have for lunch today? - Driver Erik
