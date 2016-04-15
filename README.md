@@ -28,6 +28,9 @@ PNDPO says "wat."
 
 "Coffee is our savior" -Morgan & Phil
 
+"Every happy coder is alike. Every unhappy coder is unhappy in his
+or her own way." -- Tolstoy
+
 You can always do whatever you want.  You are unique and special. - Erik
 
 What did you have for lunch today? - Driver Erik
