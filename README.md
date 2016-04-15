@@ -24,7 +24,9 @@ Erik says hi too
 
 PNDPO says "wat."
 
-"I love friday mornings" --morgan $ phil
+"I love friday mornings" --morgan & phil
+
+"Coffee is our savior" -Morgan & Phil
 
 You can always do whatever you want.  You are unique and special. - Erik
 
