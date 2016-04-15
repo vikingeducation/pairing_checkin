@@ -24,7 +24,7 @@ Erik says hi too
 
 PNDPO says "wat."
 
-"Whatever I want." -Matt
+"I love friday mornings" --morgan $ phil
 
 You can always do whatever you want.  You are unique and special. - Erik
 
