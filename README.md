@@ -1,6 +1,7 @@
 # Pairing Checkin
 ## This is for the dry run of your pairing sessions
 
+Test drive complete! I hope this doesn't take too long! -- Johnny
 
 ljrngelr - A
 The sun is shining!  (that's bright) -- Driver Erik
