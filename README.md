@@ -1,9 +1,13 @@
 # Pairing Checkin
 ## This is for the dry run of your pairing sessions
 
+<<<<<<< HEAD
 
 
 Good morning, it's an ugly day! -- Hannah
+=======
+Good morning, it's pouring outside! -- Hannah
+>>>>>>> 430c5cdd574346e6044ab52e29f371b189c70daf
 
 Test drive complete! I hope this doesn't take too long! -- Johnny
 
