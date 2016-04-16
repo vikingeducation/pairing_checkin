@@ -1,6 +1,8 @@
 # Pairing Checkin
 ## This is for the dry run of your pairing sessions
 
+Good morning, it's a beautiful day! -- Hannah
+
 Test drive complete! I hope this doesn't take too long! -- Johnny
 
 ljrngelr - A
