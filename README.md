@@ -2,8 +2,13 @@
 ## This is for the dry run of your pairing sessions
 
 
+Good morning, it's an nice day! -- Hannah
+
+Test drive complete! I hope this doesn't take too long! -- Johnny
+
 ljrngelr - A
-The sun is shining!  (that's bright) -- Driver Erik
+
+The sun is shining!  (that's bright) -- Driver Hannah
 
 
 The sample repo to be used for our pairing checkin
