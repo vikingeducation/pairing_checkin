@@ -117,5 +117,5 @@ What's the weather like for you? -- Mike
 
 Frreeezzing. This ain't no summer! How's Boston. I went to a place there called Hingham once.
 
-It's really nice here, actually. You heard the birds earlier. I've been to Hingham once too for a wedding. --Mike 
+It's really nice here, actually. You heard the birds earlier. I've been to Hingham once too for a wedding. --Mike It's a pretty small place from what I remember.
 
