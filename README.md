@@ -113,10 +113,5 @@ Hello. -- Mike
 
 Hello --jess
 
-Sup. --Lisa
+What's the weather like for you? -- Mike
 
-Nothing much. -- Mike
-
-Oh yeah?. -- Lisa
-
-Hi, how's it going? -- Mike
