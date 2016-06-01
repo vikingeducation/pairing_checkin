@@ -115,3 +115,5 @@ Hello --jess
 
 What's the weather like for you? -- Mike
 
+Frreeezzing. This ain't no summer! How's Boston. I went to a place there called Hingham once. 
+
