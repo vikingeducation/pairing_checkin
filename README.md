@@ -110,3 +110,5 @@ Whatever I want is here.  -- Driver Erik
 ANYTHING.  DO SOME CODE. -- Driver Erik
 
 Summer rain makes me very happy. -- David Watts
+
+My favorite thing about the summer is unlimited ice cream.  -- Catherine
