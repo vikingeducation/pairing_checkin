@@ -109,4 +109,11 @@ Whatever I want is here.  -- Driver Erik
 
 ANYTHING.  DO SOME CODE. -- Driver Erik
 
+Hello, world! -- Driver CJ
 
+Hello to you as well -- Driver Leo
+Attempted conflict? -Leo
+
+knock knock--Driver CJ
+
+who's there? -- Driver JHU
