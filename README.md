@@ -1,6 +1,7 @@
 # Pairing Checkin
 ## This is for the dry run of your pairing sessions
 
+"hey this jeef" - eljefe
 
 ljrngelr - A
 The sun is shining!  (that's bright) -- Driver Erik
