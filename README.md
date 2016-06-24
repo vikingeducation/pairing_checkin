@@ -1,6 +1,8 @@
 # Pairing Checkin
 ## This is for the dry run of your pairing sessions
 
+"matt h, pairing with jeef" - someone
+
 "hey this jeef" - eljefe
 
 ljrngelr - A
