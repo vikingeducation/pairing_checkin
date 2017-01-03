@@ -111,4 +111,4 @@ ANYTHING.  DO SOME CODE. -- Driver Erik
 
 "I really don't know what I'm doing!" -- Driver YX
 
-"Yeah, me too. I'm kinda lost." -- Driver Roy
+"Still kinda lost here." -- Driver Roy
