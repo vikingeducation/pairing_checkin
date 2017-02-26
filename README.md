@@ -1,6 +1,11 @@
 # Pairing Checkin
 ## This is for the dry run of your pairing sessions
+
 February 26, 2017 : Sun 10:04am - Even more Changes by Deven
+
+
+Create Conflict Will
+
 
 February 26, 2017 : Sun 9:53am - More Changes by Will
 
