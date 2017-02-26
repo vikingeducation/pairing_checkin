@@ -114,3 +114,5 @@ Coding! --Driver Renzo
 Me too! -- Driver Egle
 
 I want my changes --Renzo
+
+I want to merge --Egle
