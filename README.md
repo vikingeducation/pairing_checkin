@@ -1,6 +1,7 @@
 # Pairing Checkin
 ## This is for the dry run of your pairing sessions
 
+February 26, 2017 : Sun 9:27am - Changes by Deven
 
 ljrngelr - A
 The sun is shining!  (that's bright) -- Driver Erik
@@ -108,5 +109,3 @@ I WANT ICE CREAM!!!! -- Driver Erik
 Whatever I want is here.  -- Driver Erik
 
 ANYTHING.  DO SOME CODE. -- Driver Erik
-
-
