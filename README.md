@@ -2,6 +2,9 @@
 ## This is for the dry run of your pairing sessions
 
 
+"Let's hear it for Peoria!"
+"Changed to West Coast!"
+
 ljrngelr - A
 The sun is shining!  (that's bright) -- Driver Erik
 
