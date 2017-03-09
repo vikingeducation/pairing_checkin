@@ -110,3 +110,6 @@ Whatever I want is here.  -- Driver Erik
 ANYTHING.  DO SOME CODE. -- Driver Erik
 
 Nicolas and Nicholas have begun their epic battle for pronunciation superiority! -- Driver Nicholas
+
+Adding the '´' to my name is very easy in my keyboard, because it's a spanish keyboard -- Driver Nicolás
+
