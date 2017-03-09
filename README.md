@@ -3,7 +3,7 @@
 
 
 "Let's hear it for Peoria!"
-
+"East Coast!"
 
 ljrngelr - A
 The sun is shining!  (that's bright) -- Driver Erik
