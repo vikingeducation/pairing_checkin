@@ -109,4 +109,11 @@ Whatever I want is here.  -- Driver Erik
 
 ANYTHING.  DO SOME CODE. -- Driver Erik
 
+Nicolas and Nicholas have begun their epic battle for pronunciation superiority! -- Driver Nicholas
+
+Adding the '´' to my name is very easy in my keyboard, because it's a spanish keyboard -- Driver Nicolás
+
+The final battle takes place in line 116 and the result was something something (peaceful merge)
+
+Last merge conflict to check git mergetool (we need to research using mergetool) - Driver Nicolas
 
