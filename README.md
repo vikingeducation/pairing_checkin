@@ -115,4 +115,5 @@ Adding the '´' to my name is very easy in my keyboard, because it's a spanish k
 
 The final battle takes place in line 116 and the result was something something (peaceful merge)
 
-Last merge conflict to check git mergetool
+Last merge conflict to check git mergetool (we need to research using mergetool) - Driver Nicolas
+
