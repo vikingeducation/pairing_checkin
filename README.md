@@ -18,6 +18,7 @@ February 26, 2017 : Sun 9:27am - Changes by Deven
 ljrngelr - A
 The sun is shining!  (that's bright) -- Driver Erik
 
+Sample run of pair programming - WIll Whitworth - 8-3-17
 
 The sample repo to be used for our pairing checkin
 
