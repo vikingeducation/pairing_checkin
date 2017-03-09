@@ -13,7 +13,11 @@ February 26, 2017 : Sun 9:53am - More Changes by Deven
 
 Whitworth
 
+<<<<<<< HEAD
 merges and conflicts raged here - 3/9/2017
+=======
+Tom was here - 3/9/2017 jokes 
+>>>>>>> 8205a0126fa06df35366ed3330114f5b9b059f9d
 
 February 26, 2017 : Sun 9:27am - Changes by Deven
 
