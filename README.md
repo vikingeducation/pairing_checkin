@@ -103,7 +103,7 @@ Not being put on the spot - Joseph
 
 I'm very excited to start the Viking program in a month! -- Driver David M.
 
-I WANT ICE CREAM!!!! -- Driver Erik
+I WANT CHOCOLATE ICE CREAM WITH SPRINKLES!!!! -- Driver Erik
 
 Whatever I want is here.  -- Driver Erik
 
