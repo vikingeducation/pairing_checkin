@@ -1,5 +1,4 @@
-# Pairing Checkin
-## This is for the dry run of your pairing sessions
+# Pairing Checkin## This is for the dry run of your pairing sessions
 
 
 ljrngelr - A
@@ -108,5 +107,7 @@ I WANT ICE CREAM!!!! -- Driver Erik
 Whatever I want is here.  -- Driver Erik
 
 ANYTHING.  DO SOME CODE. -- Driver Erik
+Foobar
 
-
+Foobazz foobar barfoo coding!
+CONFLICT
