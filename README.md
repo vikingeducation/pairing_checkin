@@ -8,6 +8,10 @@ The sun is shining!  (that's bright) -- Driver Erik
 
 The sample repo to be used for our pairing checkin
 
+"Space is big. Really big. You just won't believe how vastly, hugely,
+mind-bogglingly big it is. I mean, you may think it's a long way down the
+road to the chemist, but that's just peanuts to space."
+
 "Hello world" - nsm
 
 THIS IS A CONFLICT OMG!
@@ -108,5 +112,3 @@ I WANT ICE CREAM!!!! -- Driver Erik
 Whatever I want is here.  -- Driver Erik
 
 ANYTHING.  DO SOME CODE. -- Driver Erik
-
-
