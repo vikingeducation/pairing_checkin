@@ -1,4 +1,4 @@
-# Pairing Checkin
+﻿# Pairing Checkin
 ## This is for the dry run of your pairing sessions
 
 
@@ -109,4 +109,4 @@ Whatever I want is here.  -- Driver Erik
 
 ANYTHING.  DO SOME CODE. -- Driver Erik
 
-
+Potatoes
