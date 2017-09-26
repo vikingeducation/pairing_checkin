@@ -18,7 +18,7 @@ Something.
 
 PNDPO was here
 
-puts "#{Insert Oscar Wilde Quote here}"  -- Driving Erik
+This is Jeff and me trying to pair program!
 
 Erik says hi too
 
