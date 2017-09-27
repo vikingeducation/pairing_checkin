@@ -18,7 +18,7 @@ Something.
 
 PNDPO was here
 
-This is Jeff and me trying to pair program!
+This is Jeff and I trying to create a merge conflict
 
 Erik says hi too
 
