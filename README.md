@@ -110,3 +110,5 @@ Whatever I want is here.  -- Driver Erik
 ANYTHING.  DO SOME CODE. -- Driver Erik
 
 I love the smell of coding in the morning! --Driver Gene
+
+Brain is fried from all nighter. --Driver Sam
