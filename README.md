@@ -112,4 +112,8 @@ ANYTHING.  DO SOME CODE. -- Driver Erik
 ANYTHING. I HAVE DONE IT.
 
 Yadda yadda yadda, I'm really tired today. - Hai I'm conflicting with you now again
+<<<<<<< HEAD
 - nu uh -hai conflict conflict conflict
+=======
+- etc etc etc.
+>>>>>>> 5c233577d94ccd1eb4af9a9c38caae4fb87dd058
